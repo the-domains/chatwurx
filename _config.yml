@@ -1,7 +1,7 @@
 name: Chatwurx
 favicon: null
-layout_spectrum: 0.20498000318184495
-typography_spectrum: 0.8179582536686212
+layout_spectrum: 0.74855
+typography_spectrum: 0.99904
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6477875602431595
+  brandStrength: 0.5
   lightness: 0.7231614571064711
   saturation: 0.749224858591333
   rhythmicContrast: 0.6680322121828794
