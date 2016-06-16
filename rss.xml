@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CHATWURX]]></title>
         <description><![CDATA[CHATWURX]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chatwurx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 18:44:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 16 Jun 2016 18:58:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chatwurx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What if....you could go online to book a room and instead of having to take the time to sort through all the options and figure out what will best suit your needs, you are greeted by a personal assistant via live intelligent engagement that asks you a few questions to determine exactly what you're looking for. </p>]]></description>
+            <link>https://thegrid.ai/chatwurx/what-ifyou-could-go-online-to-book-a-room-and-instead-of/index.html</link>
+            <guid isPermaLink="false">e775ed53-13d2-427b-a910-5b11cf8228e3</guid>
+            <pubDate>Thu, 16 Jun 2016 18:58:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1a48ce9-5335-41e5-bd89-670c625a1582.jpg">]]></description>
-            <link>undefinedwhether-your-making-a-online-purchase-booking-a-flight-res/index.html</link>
+            <link>https://thegrid.ai/chatwurx/whether-your-making-a-online-purchase-booking-a-flight-res/index.html</link>
             <guid isPermaLink="false">9ddb742a-2cf1-4e9b-80cd-090c95251e47</guid>
             <pubDate>Thu, 16 Jun 2016 18:44:28 GMT</pubDate>
         </item>
